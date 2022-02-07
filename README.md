@@ -1,4 +1,2 @@
-# LaunchX-InnovaccionVirtual
-#Example01
-Tareas
-#Autor CTorres, apartir de aqui vienen las tareas solicitadas para el curso de InnovaccionVirtual
+LaunchX-InnovaccionVirtual
+Repositorio con los ejercicios y katas del propedéutico de Python de LaunchX.
